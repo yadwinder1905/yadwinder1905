@@ -1,16 +1,26 @@
 ## Hi there 👋
+# 👋 Hello! I'm Yadwinder Singh
 
-<!--
-**yadwinder1905/yadwinder1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Cloud and Automation Enthusiast**
 
-Here are some ideas to get you started:
+I'm a dedicated DevOps Engineer with hands-on experience in cloud platforms, CI/CD pipelines, and infrastructure automation. I specialize in enhancing development workflows and building scalable, resilient systems. With a focus on AWS, Kubernetes, and Docker, I’m passionate about leveraging automation to improve efficiency and reliability in deployment processes. I'm always looking to dive into new technologies and bring innovative solutions to complex challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills & Technologies
+- **Cloud Platforms**: AWS (EC2, S3, IAM, Lambda), GCP, Azure
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **CI/CD Tools**: Jenkins, GitHub Actions
+- **Configuration Management**: Terraform, Ansible
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Version Control**: Git, GitHub
+- **Scripting**: Python, Bash
+
+### 🌟 Featured Projects
+- **[Project 1 Name](https://github.com/YourUsername/Project1)** - Description of the project, technologies used, and any standout achievements or features.
+- **[Project 2 Name](https://github.com/YourUsername/Project2)** - Brief overview, highlighting the key purpose and outcomes of the project.
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue)](https://linkedin.com/in/YourLinkedIn)
+
