@@ -20,23 +20,27 @@
 - 🌱 Learning **Infrastructure as Code (IaC)** and **Terraform**
 - 👯 Seeking collaboration on impactful **Cloud and DevOps projects**
 - 💬 Let’s chat about cloud infrastructure, automation, and continuous integration
-- 📫 Reach me at: **yadwindersingh371@gmail.com**
+- 📫 Reach me at: **yadwinder.singh@example.com**
 - ⚡ Fun fact: I can spend hours solving tech puzzles and optimizing workflows!
 
-## 🚀 Languages, Tools & Technologies:
-<p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
-    <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a>
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/terraform.png"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48"/> </a> 
-    <a href="https://grafana.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> </a>
-    <a href="https://prometheus.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/prometheus.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/console.png"/> </a>
-</p>
+---
+
+
+## 🛠️ Technologies I Use
+
+| **Category**               | **Technologies**                                                                                                               |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud Platforms**        | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS, ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) Azure, GCP |
+| **Containerization**       | ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker, ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) Kubernetes |
+| **CI/CD**                  | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins, GitHub Actions, GitLab CI, CircleCI                   |
+| **Infrastructure as Code** | ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) Terraform, CloudFormation                                  |
+| **Configuration Management** | Ansible, Puppet                                                                                                            |
+| **Monitoring & Logging**   | ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) Grafana, Prometheus, ELK Stack                                 |
+| **Version Control**        | ![Git](https://img.icons8.com/color/48/000000/git.png) Git, GitHub, GitLab                                                   |
+| **Scripting Languages**    | ![Python](https://img.icons8.com/color/48/000000/python.png) Python, Bash, Shell                                             |
+| **Operating Systems**      | ![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux, Ubuntu, CentOS, Windows                                    |
+| **Database & Storage**     | MySQL, PostgreSQL, MongoDB   
+
 
 ---
 
@@ -46,30 +50,6 @@
 - **[CI/CD Pipeline with Jenkins & GitHub Actions](https://github.com/YourUsername/Project3)** - Created end-to-end CI/CD pipelines for rapid, automated releases and zero downtime deployments.
 
 ---
-
-<p align="center">
-    <a href="https://github.com/YourUsername/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yadwinder Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&column=8)](https://github-profile-trophy.vercel.app/?username=YourUsername&column=8)
-
-## 📊 My GitHub Stats
-  <br/>
-    <a href="https://github.com/YourUsername/github-readme-stats"><img alt="Yadwinder Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/YourUsername/github-readme-stats"><img alt="Yadwinder Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/YourUsername/github-readme-activity-graph"><img alt="Yadwinder Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YourUsername&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
@@ -89,4 +69,5 @@
 
 <div align="center">
 ### 🚀 Thank you for visiting my GitHub profile!
-</div>
+</div>|
+
